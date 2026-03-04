@@ -1,0 +1,4 @@
+App ideas
+
+1. Influencer management tool
+2. AI assistant for Salesforce
