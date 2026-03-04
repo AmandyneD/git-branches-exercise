@@ -1,4 +1,5 @@
-App ideas
-
+ideas.txt
 1. Influencer management tool
 2. AI assistant for Salesforce
+3. AI product generator
+4. AI marketing generator
